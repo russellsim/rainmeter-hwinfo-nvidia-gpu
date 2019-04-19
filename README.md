@@ -1,4 +1,4 @@
-This Rainmeter skin allows you to quickly view CPU utilization, temperature, frequency and voltage.
+This Rainmeter skin allows you to quickly view GPU utilization, temperature, frequency and voltage.
 
 # Screenshot
 ![Screenshot](Sample.PNG)
